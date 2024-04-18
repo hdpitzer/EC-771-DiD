@@ -4,5 +4,8 @@ KFF/
 POS/
 HCRIS_v1996/
 HCRIS_v2010/
+data/
 HCRIS_Data_v1996.txt
 HCRIS_Data_v2010.txt
+HCRIS_Data.txt
+.Rproj.user
